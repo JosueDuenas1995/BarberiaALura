@@ -1,2 +1,2 @@
 # new
-Proyecto hecho en React para el Bootcamp de CONEXION sv
+Proyecto de sitio web usando HTML y CSS
